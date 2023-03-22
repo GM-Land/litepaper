@@ -5,7 +5,7 @@
 **GM.Land is a decentralising social ecosystem built on top of virtual land.**
 
 {% hint style="info" %}
-**This litepaper is a living document and is subject to major changes in a matter of days or even hours. We therefore document our though process in a version tracked system in the name of high transparency.**
+**This litepaper is a living document and is subject to major changes in a matter of days or even hours. We therefore document our though process in a** [**version tracked system**](https://github.com/GM-Land/litepaper/) **in the name of high transparency.**
 {% endhint %}
 
 We say _decentralising_ 😁 since, we admit, we will not be fully decentralised at the start - eg. the team, the technical infrastructure. But hear us out as we reveal our plans to fully decentralise in this litepaper.
