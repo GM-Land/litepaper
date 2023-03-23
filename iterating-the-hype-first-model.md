@@ -9,3 +9,5 @@ There is a problem with this model and it doesn't quite go with the core ethos o
 It's very disheartening to take wind of a promising project on Twitter or Discord, only to find out the  project does not even allow a read-only look for those without a token. At this point, the usual thing to do is to head to OpenSea to see what the tokens are selling for and it's generally a binary outcome: it's either heading to zero or you're priced out.
 
 [Community wars](https://twitter.com/waleswoosh/status/1637790583170248705) could be a side effect of exclusive NFT communities. We at GM.Land want to make the project inclusive, its features accessible to all - allow non-token holders to still view the entire project (read-only) and token holders to obviously fully participate (read/write) for an extremely affordable price of $8 or less for a lifetime pass.
+
+<figure><img src=".gitbook/assets/pixel-world-midjourney.png" alt=""><figcaption><p>Pixel World via Midjourney</p></figcaption></figure>
