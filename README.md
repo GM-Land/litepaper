@@ -18,6 +18,8 @@ The pixel map serves as a web3 billboard (above), allowing user to upload images
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Room View</p></figcaption></figure>
 
-The project incorporates a community treasury and governance tokens called Checks (ERC-1155). Users can burn multiple Checks to claim Land NFTs (ERC-721) with varying sizes and unique X, Y coordinates. GM.Land is committed to donating a portion of its revenue to planting trees and fostering a sustainable future.
+The project incorporates a community treasury, tokens called Checks (ERC-1155) and unique Land tokens (ERC-721). Users can burn multiple Checks to claim Land NFTs with varying sizes and unique X, Y coordinates. Both tokens are treated as governance tokens with voting power.
+
+GM.Land is committed to donating a portion of its revenue to planting trees and fostering a sustainable future.
 
 It is intended, at the time of writing that GM.Land will be deployed on Polygon which claims to be a carbon-neutral blockchain.
