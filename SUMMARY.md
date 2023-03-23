@@ -14,3 +14,4 @@
 * [Educational Content & User Support](educational-content-and-user-support.md)
 * [Roadmap & Milestones](roadmap-and-milestones.md)
 * [Brand Assets](brand-assets.md)
+* [Executive Summary](executive-summary.md)
