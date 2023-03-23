@@ -10,6 +10,10 @@ Burning a single Check will allow the user to place themselves on the map and pa
 
 Burning multiple Checks on the other hand will apply a Multiplier to the outcome where the number of Checks you will receive will be multiplied. See the following example.
 
+{% hint style="info" %}
+**The "Area" in the below charts will equal the voting power of the Land token.**
+{% endhint %}
+
 ### 8x Multiplier
 
 | Land | Width | Height | Area   | Checks Req. | Price @ Mint |
