@@ -4,4 +4,4 @@ GM.Land's commitment to planting trees is an integral part of the project's visi
 
 The community will be able to propose and vote to donate to a different cause downstream.
 
-<figure><img src=".gitbook/assets/gm.land-landscape-opensea (1).png" alt=""><figcaption><p>The green check is supposed to represent a tree</p></figcaption></figure>
+<figure><img src=".gitbook/assets/gm.land-landscape-opensea (1).png" alt=""><figcaption><p>The green check represents a tree.</p></figcaption></figure>

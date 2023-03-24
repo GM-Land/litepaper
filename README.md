@@ -16,7 +16,7 @@ GM.Land is community-driven NFT project that enables users to own and customise 
 
 The pixel map serves as a web3 billboard (above), allowing user to upload images or logos to their land, effectively creating a personalised advertising space. Additionally, when a user's land is selected, a personal social media space launches (below), featuring the user's avatar and a custom room. The platform plans to incorporate basic features like guest books, posts, and likes to enhance the user experience.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Room View</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Room View</p></figcaption></figure>
 
 The project incorporates a community treasury, tokens called Checks (ERC-1155) and unique Land tokens (ERC-721). Users can burn multiple Checks to claim Land NFTs with varying sizes and unique X, Y coordinates. Both tokens are treated as governance tokens with voting power.
 

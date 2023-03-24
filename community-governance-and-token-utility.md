@@ -4,4 +4,4 @@ As a community-driven project, GM.Land aims to involve its users in the decision
 
 As the platform evolves, GM.Land will explore additional use cases for the tokens, such as in-game currency, rewards for community activities, and access to exclusive features.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>AI generated image via Midjourney v5. Prompt: pixel world.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>AI generated image via Midjourney v5. Prompt: "pixel world".</p></figcaption></figure>
