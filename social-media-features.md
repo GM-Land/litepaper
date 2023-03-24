@@ -1,6 +1,6 @@
 # Social Media Features
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Artist's First Impression - this will change</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>Artist's First Impression - this will change</p></figcaption></figure>
 
 GM.Land is a decentralised social ecosystem built on top of digital land that features web3-centric social media functionalities. While this current image of the social media UI will change, the core idea is nicely demonstrated.
 
