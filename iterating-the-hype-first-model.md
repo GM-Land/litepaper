@@ -10,4 +10,4 @@ It's very disheartening to take wind of a promising project on Twitter or Discor
 
 [Community wars](https://twitter.com/waleswoosh/status/1637790583170248705) could be a side effect of exclusive NFT communities. We at GM.Land want to make the project inclusive, its features accessible to all - allow non-token holders to still view the entire project (read-only) and token holders to obviously fully participate (read/write) for an extremely affordable price of $8 or less for a lifetime pass.
 
-<figure><img src=".gitbook/assets/pixel-world-midjourney.png" alt=""><figcaption><p>Pixel World via Midjourney</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pixel-world-midjourney.png" alt=""><figcaption><p>AI generated image via Midjourney v4. Prompt: "pixel world".</p></figcaption></figure>
