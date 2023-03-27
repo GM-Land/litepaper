@@ -1,7 +1,7 @@
 # Revenue Distribution
 
 {% hint style="info" %}
-**As the Tokenomics page has had a significant change as well as the minting model (with the introduction of Open Season Mint), this page is currently under review and is subject to major changes. We document all of our changes, therefore the thought-process in the name of high transparency.**
+As the Tokenomics page has had a significant change as well as the minting model (with the introduction of Open Season Mint), this page is currently under review and is subject to major changes. We document all of our changes, therefore the thought-process in the name of high transparency.
 {% endhint %}
 
 ## Survival Mode
@@ -15,6 +15,10 @@ Since there's no guarantee the Season 1 mint revenue will be millions of dollars
 **During Survival Mode, the Revenue Distribution charts below will not apply.** Also, donation for planting of trees will be deferred to a point in time where we can exit Survival Mode.
 
 **GM.Land will exit Survival Mode once we have saved up 33,255 x 12 months = 399,060 USD equivalent, efficiently securing 12 months of runway.**
+
+{% hint style="info" %}
+NOTE: GM.Land's minting is not to be confused with a fundraiser process. We will, at all times, be sufficiently capitalised to build and ship the next iteration of the project with zero reliance on the mint proceeds.
+{% endhint %}
 
 ## Normal Mode
 
