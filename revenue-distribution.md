@@ -17,7 +17,7 @@ Since there's no guarantee the Season 1 mint revenue will be millions of dollars
 **GM.Land will exit Survival Mode once we have saved up 33,255 x 12 months = 399,060 USD equivalent, efficiently securing 12 months of runway.**
 
 {% hint style="info" %}
-NOTE: GM.Land's minting is not to be confused with a fundraiser process. We will, at all times, be sufficiently capitalised to build and ship the next iteration of the project with zero reliance on the mint proceeds.
+GM.Land's minting is not to be confused with a fundraiser process. We will, at all times, be sufficiently capitalised to build and ship the next iteration of the project with zero reliance on the mint proceeds.
 {% endhint %}
 
 ## Normal Mode
