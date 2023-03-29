@@ -35,7 +35,7 @@ The "Area" in the below charts will equal the voting power of the Land token**.*
 | L    | 64    | 64     | 4,096  | 256         | $2,048       |
 | XL   | 128   | 128    | 16,384 | 1,024       | $8,192       |
 
-The multiplier is applied when burning and converting multiple Checks to Land. As per the above chart, for the XL sized land, although the land actually contains 16,384 Checks or pixels, the required number of Checks is only 1,024 since a 16x multiplier is applied. The multiplier essentially is an early-adopter discount.
+**The multiplier is applied when burning and converting multiple Checks to Land. As per the above chart, for the XL sized land, although the land actually contains 16,384 Checks or pixels, the required number of Checks is only 1,024 since a 16x multiplier is applied. The multiplier essentially is an early-adopter discount.**
 
 At the time of writing, it is the founders' intention to make the Checks supply inflationary - perhaps a sensible figure to the tune of 5% per annum to be minted for the Community Treasury to allow onboarding of more users to the GM.Land ecosystem in the future and to nurture and incentivise activities that are great for the community-driven ecosystem.
 
