@@ -47,7 +47,7 @@ At the time of writing, it is the founders' intention to make the Checks supply 
 | L    | $2,048 | $4,096  | $8,192  | $16,384 | $32,768  |
 | XL   | $8,192 | $16,384 | $32,768 | $65,536 | $131,072 |
 
-The 1x column above should be considered the normal price for Land.
+The 1x column above should be considered the normal price for Land. Multipliers provide heavy discounts for being early as getting to a critical mass of early users and thereby forming a close-knit community is pivotal to the success of GM.Land.
 
 ## **When does minting stop?**
 
@@ -57,8 +57,8 @@ Important questions like whether there is a Season 6 and beyond or how long the 
 
 | Season   | Multiplier |
 | -------- | ---------- |
-| Season 1 | 16X        |
-| Season 2 | 8X         |
-| Season 3 | 4X         |
-| Season 4 | 2X         |
-| Season 5 | 1X         |
+| Season 1 | 16x        |
+| Season 2 | 8x         |
+| Season 3 | 4x         |
+| Season 4 | 2x         |
+| Season 5 | 1x         |
