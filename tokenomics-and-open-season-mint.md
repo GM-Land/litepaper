@@ -10,21 +10,6 @@ Burning a single Check will allow the user to place themselves on the map and pa
 
 Burning multiple Checks on the other hand will apply a Multiplier to the outcome where the number of Checks you will receive will be multiplied. See the following example.
 
-{% hint style="info" %}
-The "Area" in the below charts will equal the voting power of the Land token**.**
-{% endhint %}
-
-### 8x Multiplier
-
-| Land | Width | Height | Area   | Checks Req. | Price @ Mint |
-| ---- | ----- | ------ | ------ | ----------- | ------------ |
-| XXS  | 1     | 1      | 1      | 1           | $8           |
-| XS   | 8     | 8      | 64     | 8           | $64          |
-| S    | 16    | 16     | 256    | 32          | $256         |
-| M    | 32    | 32     | 1,024  | 128         | $1,024       |
-| L    | 64    | 64     | 4,096  | 512         | $4,096       |
-| XL   | 128   | 128    | 16,384 | 2,048       | $16,384      |
-
 ## Open Season Minting
 
 Open Editions have been the latest craze in early 2023 with Jack Butcher hitting a homerun with his Checks VV Edition collection.&#x20;
@@ -35,7 +20,11 @@ As GM.Land is primarily a social ecosystem, our goals are to be accessible to ev
 
 To incentivise early adopters, it is the founders' intention that Season 1 of minting will offer a 16x multiplier and Season 2 will likely see a lower multiplier like 8x.
 
-### 16x Multiplier
+{% hint style="info" %}
+The "Area" in the below charts will equal the voting power of the Land token**.**
+{% endhint %}
+
+### Multiplier Explained: 16x Multiplier
 
 | Land | Width | Height | Area   | Checks Req. | Price @ Mint |
 | ---- | ----- | ------ | ------ | ----------- | ------------ |
