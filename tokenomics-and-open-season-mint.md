@@ -39,13 +39,15 @@ The "Area" in the below charts will equal the voting power of the Land token**.*
 
 At the time of writing, it is the founders' intention to make the Checks supply inflationary - perhaps a sensible figure to the tune of 5% per annum to be minted for the Community Treasury to allow onboarding of more users to the GM.Land ecosystem in the future and to nurture and incentivise activities that are great for the community-driven ecosystem.
 
-| Land | 16X    | 8X      | 4X      | 2X      | 1X       |
+| Land | 16x    | 8x      | 4x      | 2x      | 1x       |
 | ---- | ------ | ------- | ------- | ------- | -------- |
 | XS   | $32    | $64     | $128    | $256    | $512     |
 | S    | $128   | $256    | $512    | $1,024  | $2,048   |
 | M    | $512   | $1,024  | $2,048  | $4,096  | $8,192   |
 | L    | $2,048 | $4,096  | $8,192  | $16,384 | $32,768  |
 | XL   | $8,192 | $16,384 | $32,768 | $65,536 | $131,072 |
+
+The 1x column above should be considered the normal price for Land.
 
 ## **When does minting stop?**
 
