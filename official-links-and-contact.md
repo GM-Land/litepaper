@@ -1,7 +1,7 @@
 # Official Links & Contact
 
-{% embed url="https://gm.land" %}
-Official Website: https://GM.Land
+{% embed url="https://gm.land/" %}
+Official Website: [GM.Land](https://gm.land)
 {% endembed %}
 
 {% embed url="https://twitter.com/GM_Land_NFT" %}
