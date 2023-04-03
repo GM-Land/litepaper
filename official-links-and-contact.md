@@ -8,5 +8,5 @@ Official Website: https://GM.Land
 Official Twitter: https://twitter.com/GM\_Land\_NFT
 {% endembed %}
 
-Email: [francis@GM.Land](https://mail:francis@gm.land)
+Email: [gm@GM.Land](https://mail:gm@gm.land)
 
