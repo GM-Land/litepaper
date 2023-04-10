@@ -24,30 +24,47 @@ To incentivise early adopters, it is the founders' intention that Season 1 of mi
 The "Area" in the below charts will equal the voting power of the Land token**.**
 {% endhint %}
 
-### Multiplier Explained: 16x Multiplier
+### Multiplier - more land for same price
 
-| Land | Width | Height | Area   | Checks Req. | Price @ Mint |
-| ---- | ----- | ------ | ------ | ----------- | ------------ |
-| XXS  | 1     | 1      | 1      | 1           | $8           |
-| XS   | 8     | 8      | 64     | 4           | $32          |
-| S    | 16    | 16     | 256    | 16          | $128         |
-| M    | 32    | 32     | 1,024  | 64          | $512         |
-| L    | 64    | 64     | 4,096  | 256         | $2,048       |
-| XL   | 128   | 128    | 16,384 | 1,024       | $8,192       |
+| Land | Checks  | X  | Area   | Width | Height | Price @ Mint |
+| ---- | ------- | -- | ------ | ----- | ------ | ------------ |
+| XS   | 4       | 16 | 64     | 8     | 8      | $32          |
+| S    | 16      | 16 | 256    | 16    | 16     | $128         |
+| M    | 64      | 16 | 1,024  | 32    | 32     | $512         |
+| L    | 256     | 16 | 4,096  | 64    | 64     | $2,048       |
+| XL   | 1,024   | 16 | 16,384 | 128   | 128    | $8,192       |
 
-**The multiplier is applied when burning and converting multiple Checks to Land. As per the above chart, for the XL sized land, although the land actually contains 16,384 Checks, the required number of Checks is only 1,024 since a 16x multiplier is applied. The multiplier essentially is an early-adopter discount.**
+**The multiplier (X above) is applied when burning and converting multiple Checks to Land. As per the above chart, for the XL sized land, although the land actually contains 16,384 Checks, the required number of Checks is only 1,024 since a 16x multiplier is applied. The multiplier essentially is an early-adopter discount.**
 
 **A Check is an NFT but also the smallest unit in GM.Land and therefore the terms "Check" and "pixel" are used interchangeably. No multipliers will apply to a single Check as illustrated above.**
 
+Below you can see how the number of Checks required and the price changes when the multiplier is reduced.
+
+| Land | Checks  | X | Area   | Width | Height | Price @ Mint |
+| ---- | ------- | - | ------ | ----- | ------ | ------------ |
+| XS   | 8       | 8 | 64     | 8     | 8      | $64          |
+| S    | 32      | 8 | 256    | 16    | 16     | $256         |
+| M    | 128     | 8 | 1,024  | 32    | 32     | $1,024       |
+| L    | 512     | 8 | 4,096  | 64    | 64     | $4,096       |
+| XL   | 2,048   | 8 | 16,384 | 128   | 128    | $16,384      |
+
 At the time of writing, it is the founders' intention to make the Checks supply inflationary - perhaps a sensible figure to the tune of 5% per annum to be minted for the Community Treasury to allow onboarding of more users to the GM.Land ecosystem in the future and to nurture and incentivise activities that are great for the community-driven ecosystem.
 
-| Land | 16x    | 8x      | 4x      | 2x      | 1x       |
-| ---- | ------ | ------- | ------- | ------- | -------- |
-| XS   | $32    | $64     | $128    | $256    | $512     |
-| S    | $128   | $256    | $512    | $1,024  | $2,048   |
-| M    | $512   | $1,024  | $2,048  | $4,096  | $8,192   |
-| L    | $2,048 | $4,096  | $8,192  | $16,384 | $32,768  |
-| XL   | $8,192 | $16,384 | $32,768 | $65,536 | $131,072 |
+| Checks | 16x   | 8x    | 4x    | 2x    | 1x     |
+| ------ | ----- | ----- | ----- | ----- | ------ |
+| XS     | 4     | 8     | 16    | 32    | 64     |
+| S      | 16    | 32    | 64    | 128   | 256    |
+| M      | 64    | 128   | 256   | 512   | 1,024  |
+| L      | 256   | 512   | 1,024 | 2,048 | 4,096  |
+| XL     | 1,024 | 2,048 | 4,096 | 8,192 | 16,384 |
+
+| Price | 16x    | 8x      | 4x      | 2x      | 1x       |
+| ----- | ------ | ------- | ------- | ------- | -------- |
+| XS    | $32    | $64     | $128    | $256    | $512     |
+| S     | $128   | $256    | $512    | $1,024  | $2,048   |
+| M     | $512   | $1,024  | $2,048  | $4,096  | $8,192   |
+| L     | $2,048 | $4,096  | $8,192  | $16,384 | $32,768  |
+| XL    | $8,192 | $16,384 | $32,768 | $65,536 | $131,072 |
 
 The 1x column above should be considered the normal price for Land. Multipliers provide heavy discounts for being early as getting to a critical mass of early users and thereby forming a close-knit community is pivotal to the success of GM.Land.
 
