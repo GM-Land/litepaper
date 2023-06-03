@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Iterating the Hype-First Model](iterating-the-hype-first-model.md)
+* [Sustainability & Safety in Web3](sustainability-and-safety-in-web3.md)
 * [Tokenomics & Open Season Mint](tokenomics-and-open-season-mint.md)
 * [Social Media Features](social-media-features.md)
 * [Revenue Distribution](revenue-distribution.md)

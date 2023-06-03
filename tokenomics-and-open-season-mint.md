@@ -26,13 +26,7 @@ The "Area" in the below charts will equal the voting power of the Land token**.*
 
 ### Multiplier - more land for same price
 
-| Land | Checks  | X  | Area   | Width | Height | Price @ Mint |
-| ---- | ------- | -- | ------ | ----- | ------ | ------------ |
-| XS   | 4       | 16 | 64     | 8     | 8      | $32          |
-| S    | 16      | 16 | 256    | 16    | 16     | $128         |
-| M    | 64      | 16 | 1,024  | 32    | 32     | $512         |
-| L    | 256     | 16 | 4,096  | 64    | 64     | $2,048       |
-| XL   | 1,024   | 16 | 16,384 | 128   | 128    | $8,192       |
+<table><thead><tr><th width="91">Land</th><th width="102">Checks </th><th width="63">X</th><th width="113">Area</th><th width="84">Width</th><th width="92">Height</th><th>Price @ Mint</th></tr></thead><tbody><tr><td>XS</td><td>4</td><td>16</td><td>64</td><td>8</td><td>8</td><td>$32</td></tr><tr><td>S</td><td>16</td><td>16</td><td>256</td><td>16</td><td>16</td><td>$128</td></tr><tr><td>M</td><td>64</td><td>16</td><td>1,024</td><td>32</td><td>32</td><td>$512</td></tr><tr><td>L</td><td>256</td><td>16</td><td>4,096</td><td>64</td><td>64</td><td>$2,048</td></tr><tr><td>XL</td><td>1,024</td><td>16</td><td>16,384</td><td>128</td><td>128</td><td>$8,192</td></tr></tbody></table>
 
 **The multiplier (X above) is applied when burning and converting multiple Checks to Land. As per the above chart, for the XL sized land, although the land actually contains 16,384 Checks, the required number of Checks is only 1,024 since a 16x multiplier is applied. The multiplier essentially is an early-adopter discount.**
 
@@ -40,13 +34,7 @@ The "Area" in the below charts will equal the voting power of the Land token**.*
 
 Below you can see how the number of Checks required and the price changes when the multiplier is reduced.
 
-| Land | Checks  | X | Area   | Width | Height | Price @ Mint |
-| ---- | ------- | - | ------ | ----- | ------ | ------------ |
-| XS   | 8       | 8 | 64     | 8     | 8      | $64          |
-| S    | 32      | 8 | 256    | 16    | 16     | $256         |
-| M    | 128     | 8 | 1,024  | 32    | 32     | $1,024       |
-| L    | 512     | 8 | 4,096  | 64    | 64     | $4,096       |
-| XL   | 2,048   | 8 | 16,384 | 128   | 128    | $16,384      |
+<table><thead><tr><th width="91">Land</th><th width="102">Checks </th><th width="63">X</th><th width="113">Area</th><th width="84">Width</th><th width="92">Height</th><th>Price @ Mint</th></tr></thead><tbody><tr><td>XS</td><td>8</td><td>8</td><td>64</td><td>8</td><td>8</td><td>$64</td></tr><tr><td>S</td><td>32</td><td>8</td><td>256</td><td>16</td><td>16</td><td>$256</td></tr><tr><td>M</td><td>128</td><td>8</td><td>1,024</td><td>32</td><td>32</td><td>$1,024</td></tr><tr><td>L</td><td>512</td><td>8</td><td>4,096</td><td>64</td><td>64</td><td>$4,096</td></tr><tr><td>XL</td><td>2,048</td><td>8</td><td>16,384</td><td>128</td><td>128</td><td>$16,384</td></tr></tbody></table>
 
 At the time of writing, it is the founders' intention to make the Checks supply inflationary - perhaps a sensible figure to the tune of 5% per annum to be minted for the Community Treasury to allow onboarding of more users to the GM.Land ecosystem in the future and to nurture and incentivise activities that are great for the community-driven ecosystem.
 

@@ -1,4 +1,8 @@
-# Iterating the Hype-First Model
+---
+description: To help mass adoption.
+---
+
+# Sustainability & Safety in Web3
 
 NFT projects have traditionally been mostly about the hype; the grind to get on the allowed list, minting with the hopes of seeing the floor price sky rocket, supported by a low supply of tokens, generally under 10,000.
 

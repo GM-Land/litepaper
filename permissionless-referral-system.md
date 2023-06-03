@@ -7,13 +7,7 @@ Anyone can become a referrer on GM.Land. Simply head to GM.Land and authenticate
 As you make more referrals, the discount goes up and your commission goes up.\
 
 
-| <p><br></p>           | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
-| --------------------- | ------ | ------ | ------ | ------ | ------ |
-| Unlocks After X Sales | 1000   | 100    | 20     | 10     | 0      |
-| Mint Discount         | 25%    | 20%    | 15%    | 10%    | 5%     |
-| Price Per Check       | $6     | $6.40  | $6.80  | $7.20  | $7.60  |
-| Commission %          | 25%    | 20%    | 15%    | 10%    | 5%     |
-| Commission $          | $1.50  | $1.28  | $1.02  | $0.72  | $0.38  |
+<table data-header-hidden><thead><tr><th width="226"></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><br></td><td>Tier 1</td><td>Tier 2</td><td>Tier 3</td><td>Tier 4</td><td>Tier 5</td></tr><tr><td>Unlocks After X Sales</td><td>1000</td><td>100</td><td>20</td><td>10</td><td>0</td></tr><tr><td>Mint Discount</td><td>25%</td><td>20%</td><td>15%</td><td>10%</td><td>5%</td></tr><tr><td>Price Per Check</td><td>$6</td><td>$6.40</td><td>$6.80</td><td>$7.20</td><td>$7.60</td></tr><tr><td>Commission %</td><td>25%</td><td>20%</td><td>15%</td><td>10%</td><td>5%</td></tr><tr><td>Commission $</td><td>$1.50</td><td>$1.28</td><td>$1.02</td><td>$0.72</td><td>$0.38</td></tr></tbody></table>
 
 ## Rewards for Top Communities
 
