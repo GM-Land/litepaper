@@ -1,6 +1,6 @@
 # Introduction
 
-<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
+<figure><img src=".gitbook/assets/gm.land-landscape-opensea (1).png" alt=""><figcaption><p><strong>GM.Land is Powered by $CHECKS Token</strong></p></figcaption></figure>
 
 **GM.Land is a decentralising social ecosystem built on top of virtual land.**
 
