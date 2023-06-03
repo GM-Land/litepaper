@@ -1,6 +1,6 @@
 # Introduction
 
-<figure><img src=".gitbook/assets/gm.land-landscape-opensea.png" alt=""><figcaption></figcaption></figure>
+<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
 
 **GM.Land is a decentralising social ecosystem built on top of virtual land.**
 
