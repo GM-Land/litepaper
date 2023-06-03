@@ -4,6 +4,10 @@ description: 'GM.Land introduces 2 new concepts: Open Season Minting and Multipl
 
 # Tokenomics & Open Season Mint
 
+{% hint style="info" %}
+**This litepaper is a living document and is subject to major changes in a matter of days or even hours. We therefore document our though process in a** [**version tracked system**](https://github.com/GM-Land/litepaper/) **in the name of high transparency.**
+{% endhint %}
+
 Users can claim Land NFTs (ERC-721) by burning Checks (ERC-1155). Land NFTs come in different sizes, each requiring a different number of Checks.
 
 Burning a single Check will allow the user to place themselves on the map and participate in the social ecosystem.
