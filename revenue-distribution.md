@@ -26,6 +26,10 @@ Although these numbers can change, the 12.5% committed to planting trees should 
 
 We publish the 3 pie charts for the sake of total transparency.
 
+{% hint style="info" %}
+Below charts are under review and is no longer valid as of July 11, 2023
+{% endhint %}
+
 <figure><img src="https://lh4.googleusercontent.com/_DRTMzWXrtwG1uFIWfaqY2hlo5qatwkC8giph9S21Vr4aDj3gZAqDdcgdGNCvQMMJOhCONoHlg1grJYHW1s2KiUQo54Ajop5k7hpbIQQDQS_ybOfrGR5ZJlmVqFWTxP0SJNsGvQYz1QCHfe5ahKovNcjUCdi3i8KLKvlU9F00BHUJeMSBR9WwRO9mHtLi9st=nw" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://lh5.googleusercontent.com/p80ZTXHJ8GACj-74iBJDeE6anxWykYkDkGBMWqBxogWaQRCoCgnrjmq5bgraLOWY46YIeNCRDGRJI_z_eYSzH-AVP7oQtnzvjZ9YT4_ApE3c0Kf3ClK8ZQV2GJqy4MCYM_8G6kcctCGl6FEQ5Cz5cQZlVnm8gp3gd6yxbf_HvNZvvYYfTtZc-0fJSny_OUaV=nw" alt=""><figcaption></figcaption></figure>

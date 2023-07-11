@@ -6,4 +6,4 @@ Community Interoperability is a crucial aspect of GM.Land's vision. We would lik
 
 We truly believe the way forward for all is to open up and build together instead of building fortresses and division among different communities and NFT collections.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
