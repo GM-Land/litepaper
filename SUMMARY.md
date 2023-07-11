@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction - we are all notable](README.md)
 * [Sustainability & Safety in Web3](sustainability-and-safety-in-web3.md)
 * [Tokenomics & Open Season Mint](tokenomics-and-open-season-mint.md)
 * [Social Media Features](social-media-features.md)
